@@ -1,0 +1,1 @@
+"use strict";exports.id=3764,exports.ids=[3764],exports.modules={83764:(e,r,s)=>{s.r(r),s.d(r,{default:()=>t});let t=(0,s(45347).createProxy)(String.raw`E:\riot\sparking\sp_1\src\components\Page\Sell\HeaderTTKbuy\HeaderTTKbuy.jsx#default`)}};
